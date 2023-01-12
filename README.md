@@ -1,2 +1,2 @@
-# Primer-preparatorio-Henry
+# Precurso Henry
 Este es un repositorio del modulo 2
